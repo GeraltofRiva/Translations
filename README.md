@@ -1,1 +1,1 @@
-# YimMenu Translations
+# WaifuMenu Translations
